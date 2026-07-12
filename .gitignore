@@ -1,0 +1,8 @@
+desktop.ini
+**/desktop.ini
+.desktop
+**/.desktop
+*.desktop
+**/*.desktop
+.push-tool-src/
+*.pdb
