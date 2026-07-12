@@ -4,5 +4,6 @@ desktop.ini
 **/.desktop
 *.desktop
 **/*.desktop
+SubirTodo.exe
 .push-tool-src/
 *.pdb
